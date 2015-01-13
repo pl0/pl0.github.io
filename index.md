@@ -4,7 +4,9 @@ Email:  pl0@me.com
 Date:    May 15, 2012
 
 
-#hi
+#hi  
+
+    13 January 2015, 2:14:54 pm
 
 | Header One | Header Two | Header Three | Header Four |
 | ---------- | :--------- | :----------: | ----------: |
@@ -150,7 +152,7 @@ ok, try this now
 
 ---
 
-[this ](1.html) should be a link to the 1.html page
+[this ](1.html) should be a link to the 1.html paged
 
 ---
 
