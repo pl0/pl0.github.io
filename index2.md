@@ -55,7 +55,8 @@ and the `back tick` does this
 
 an image here
 
-![silly]("https://www.dropbox.com/s/incefwzo98ojtjd/car.png?dl=0" "what title")
+![silly](car.png)
+
 
 * a list
 * maybe
